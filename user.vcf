@@ -7,8 +7,8 @@ ORG:EcoLoo;
 TITLE:Founder\nEcoLoo Worldwide
 EMAIL;type=INTERNET;type=WORK;type=pref:pj@ecoloo.rent
 TEL;type=WORK;type=VOICE:+1 650 638 8918
-TEL;type=WORK;type=VOICE:+971 50 455 1186
-TEL;type=WORK;type=VOICE:+1 8333 127128
+TEL;type=DUBAI;type=VOICE:+971 50 455 1186
+TEL;type=OFFICE;type=VOICE:+1 8333 127128
 item1.ADR;type=WORK;type=pref:;;18075 Brookfield Dr, Justin, TX 76247
 item1.X-ABADR:sg
 item2.URL;type=pref:ecoloo.rent
